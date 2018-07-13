@@ -1,1 +1,1 @@
-# Enhanced-Digital-Rights-Management-DRM-using-Smart-Cards
+# Enhanced-Digital-Rights-Management-DRM-for-User-Authentication-using-Smart-Cards
